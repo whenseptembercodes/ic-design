@@ -2,6 +2,8 @@
 
 ## IC Design Bootcamp 2026
 
+IEEE Open Silicon Bootcamp
+
 # Tiny Tapeout Wokwi Project Template
 
 - [Read the documentation for project](docs/info.md)
